@@ -3,7 +3,7 @@
 #### ⭐ I am from Sao Paulo - Brazil
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Galli77&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Galli77&layout=compact&theme=dark)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Galli77&theme=dark&show_icons=true)
 <!--
 **Guilherme-Galli77/Guilherme-Galli77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
