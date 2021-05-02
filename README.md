@@ -1,6 +1,6 @@
-### Hi there 👋
-#### ⭐ My name is Guilherme Galli and i am studying Computer Engineering 💻 and Cyber Security 🔒 at university
-#### ⭐ I am from Sao Paulo - Brazil
+# Hi there 👋
+### ⭐ My name is Guilherme Galli and i am studying Computer Engineering 💻 and Cyber Security 🔒 at university
+### ⭐ I am from Sao Paulo - Brazil
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Galli77&layout=compact&theme=dark)
