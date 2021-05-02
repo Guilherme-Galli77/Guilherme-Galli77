@@ -1,7 +1,11 @@
 # Hi there 👋
-### ⭐ My name is Guilherme Galli and i am studying Computer Engineering 💻 and Cyber Security 🔒 at university
-### ⭐ I am from Sao Paulo - Brazil
+### ⚫ My name is Guilherme Galli and i am studying Computer Engineering 💻 and Cyber Security 🔒 at university
+### ⚫ I am from Sao Paulo - Brazil
 
+<!--
+##Skills
+###To do: Paste languages and others
+-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Galli77&layout=compact&theme=dark)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Galli77&theme=dark&show_icons=true)
