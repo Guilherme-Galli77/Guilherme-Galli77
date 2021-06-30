@@ -1,7 +1,7 @@
-# Hi there 👋
+# Hi there
 ### ⚫ My name is Guilherme Galli and i am studying Computer Engineering 💻 and Cyber Security 🔒 at university
 ### ⚫ I am from Sao Paulo - Brazil
-
+### ⚫ Cybersecurity director at Mauá Dev Community
 <!--
 ##Skills
 ###To do: Paste languages and others
