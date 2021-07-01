@@ -1,11 +1,13 @@
 # Hi there
-### ⚫ My name is Guilherme Galli and i am studying Computer Engineering 💻 and Cyber Security 🔒 at university
+### ⚫ My name is Guilherme Galli and i am studying Computer Engineering and Cybersecurity at university
 ### ⚫ I am from Sao Paulo - Brazil
 ### ⚫ Cybersecurity director at Mauá Dev Community
 <!--
 ##Skills
 ###To do: Paste languages and others
 -->
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Galli77&layout=compact&langs_count=32&theme=great-gatsby)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Galli77&theme=great-gatsby&show_icons=true)
