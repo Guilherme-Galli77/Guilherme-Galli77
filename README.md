@@ -1,5 +1,5 @@
 # Hi there
-### ⚫ My name is Guilherme Galli and i am studying Computer Engineering and Cybersecurity at university
+### ⚫ My name is Guilherme Cury Galli and i am studying Computer Engineering and Cybersecurity at university
 ### ⚫ I am from Sao Paulo - Brazil
 ### ⚫ Cybersecurity director at Mauá Dev Community
 <!--
