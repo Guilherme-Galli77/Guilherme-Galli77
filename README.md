@@ -7,13 +7,17 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Galli77&layout=compact&langs_count=32&theme=great-gatsby)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-Galli77&theme=great-gatsby&show_icons=true)
 
-##Skills
+## Skills
 <p align="center">
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="40" src="https://toppng.com/uploads/preview/kali-linux-logo-11562915225uyursxhbp6.png">
+    <img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-dGElZuamLcCIVlnKYWKOrq9o2uXCvLFCqg&usqp=CAU">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   
   
 <!--
