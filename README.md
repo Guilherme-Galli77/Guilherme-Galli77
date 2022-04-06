@@ -1,7 +1,7 @@
 # Hi there
 ### ⚫ My name is Guilherme Cury Galli and i am studying Computer Engineering and Cybersecurity at university
 ### ⚫ I am from Sao Paulo - Brazil
-### ⚫ Cybersecurity director at Mauá Dev Community
+
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Galli77&layout=compact&langs_count=32&theme=great-gatsby)
